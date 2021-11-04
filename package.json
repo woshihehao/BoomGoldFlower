@@ -1,16 +1,12 @@
 {
-  "name": "sap.m.tutorial.walkthrough.10",
+  "name": "BoomGoldFlower",
   "version": "1.0.0",
-  "author": "SAP SE",
-  "description": "Sample: Walkthrough - Step 10 - Descriptor for Applications",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "ui5 serve",
-    "build": "ui5 build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "@openui5/themelib_sap_fiori_3": "^1"
-  },
-  "devDependencies": {
-    "@ui5/cli": "^2.0.0"
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
